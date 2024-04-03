@@ -3,7 +3,7 @@
 
 ## A full-stack developer from The Netherlands</h3>
 
-- 🌱 I’m currently learning <b>C++</b>, <b>C#</b>, <b>React/Next.JS</b> and <b>JavaScript</b>
+- 🌱 I’m currently learning <b>React/Next.JS</b>, <b>JavaScript</b> and some other thingy's.
 
 - 👨‍💻 All of my projects are available at my [Discord](https://discord.gg/bAufH43QKM).
 
