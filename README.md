@@ -1,4 +1,6 @@
 ### Hi 👋, I'm LuvvSum
+<img src="https://discord.c99.nl/widget/theme-4/1152020403884150864.png">
+
 ## A full-stack developer from The Netherlands</h3>
 
 - 🌱 I’m currently learning <b>C++</b>, <b>C#</b>, <b>React/Next.JS</b> and <b>JavaScript</b>
