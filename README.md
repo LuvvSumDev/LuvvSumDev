@@ -11,9 +11,9 @@
 
 ### Dutch FiveM Servers I worked on:
 
-- Gaardedreef Roleplay
+- [Gaardedreef Roleplay](https://discord.gg/eKtdNtNr6s)
 
-- Vlaardingen Roleplay
+- [Vlaardingen Roleplay](https://discord.gg/A9f5nWb86M)
 
 - Zortus Roleplay
 
@@ -29,7 +29,7 @@
 <p align="left">
   <a href="https://twitter.com/davien_kuypers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davien_kuypers" height="30" width="40" /></a>
   <a href="https://instagram.com/_luvv999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_luvv999" height="30" width="40" /></a>
-  <a href="https://discord.gg/bAufH43QKM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bXSswPkUEr" height="30" width="40" /></a>
+  <a href="https://discord.gg/P5kjGRgYKZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bXSswPkUEr" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
