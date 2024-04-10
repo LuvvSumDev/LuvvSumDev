@@ -3,7 +3,7 @@
 
 ## A full-stack developer from The Netherlands</h3>
 
-- 🌱 I’m currently learning <b>React/Next.JS</b>, <b>JavaScript</b> and some other thingy's.
+- 🌱 I’m currently learning <b>React/Next.JS</b> and some other thingy's.
 
 - 👨‍💻 All of my projects are available at my [Discord](https://discord.gg/bAufH43QKM).
 
@@ -44,4 +44,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="discord.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
 </p>
