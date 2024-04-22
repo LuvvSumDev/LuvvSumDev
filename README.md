@@ -11,9 +11,9 @@
 
 ### Dutch FiveM Servers I worked on:
 
-- [Gaardedreef Roleplay](https://discord.gg/eKtdNtNr6s)
+- Gaardedreef Roleplay
 
-- [Vlaardingen Roleplay](https://discord.gg/A9f5nWb86M)
+- Vlaardingen Roleplay
 
 - Zortus Roleplay
 
