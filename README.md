@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at my [Discord](https://discord.gg/bAufH43QKM).
 
-- 📒 Check out [Prisma Logs](https://prisma-logs.com/)
+- 📒 Check out [Prisma Logs](https://prisma-logs.com/).
 
 - ⚡ Fun fact <i><b>I need to bulk lol, oh and my other Discord account name is Demonized :)</b></i>
 
