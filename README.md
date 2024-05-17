@@ -1,5 +1,5 @@
 ### Hi 👋, I'm LuvvSum
-<img src="https://discord.c99.nl/widget/theme-4/1152020403884150864.png">
+[![Discord Presence](https://lanyard.cnrad.dev/api/1152020403884150864)](https://discord.com/users/1152020403884150864)
 
 ## A full-stack developer from The Netherlands</h3>
 
