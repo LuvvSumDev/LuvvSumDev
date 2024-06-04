@@ -11,22 +11,6 @@
 
 - ⚡ Fun fact <i><b>I need to bulk lol, oh and my other Discord account name is Demonized :)</b></i>
 
-### Dutch FiveM Servers I worked on:
-
-- Gaardedreef Roleplay
-
-- Vlaardingen Roleplay
-
-- Zortus Roleplay
-
-- Roerveen Roleplay (Don't know if my assessment script made it in to the server tbh, but I count it)
-
-- Centrum Roleplay (First called "Den Haag Roleplay")
-
-- Westdijk Roleplay
-
-- And some more servers, I forgot them...
-
 ### Connect with me:
 <p align="left">
   <a href="https://twitter.com/davien_kuypers" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davien_kuypers" height="30" width="40" /></a>
