@@ -5,17 +5,13 @@
 
 - 🌱 I’m currently learning <b>React/Next.JS</b> and some other thingy's.
 
-- 👨‍💻 All of my projects are available at my [Discord](https://discord.gg/bAufH43QKM).
-
-- 📒 Check out [Sentinel Anti-Cheat](https://sentinel-anticheat.com/).
-
-- ⚡ Fun fact <i><b>I need to bulk lol, oh and my other Discord account name is Demonized :)</b></i>
+- ⚡ Fun fact <i><b>I like helping some FiveM servers here and there, oh and my other Discord account name is Demonized :)</b></i>
 
 ### Connect with me:
 <p align="left">
   <a href="https://twitter.com/davien_kuypers" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davien_kuypers" height="30" width="40" /></a>
   <a href="https://instagram.com/_luvv999" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_luvv999" height="30" width="40" /></a>
-  <a href="https://discord.gg/P5kjGRgYKZ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bXSswPkUEr" height="30" width="40" /></a>
+  <a href="https://discord.com/users/1152020403884150864" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bXSswPkUEr" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
