@@ -3,7 +3,7 @@
 
 ## A full-stack developer from The Netherlands</h3>
 
-- 🌱 I’m currently learning <b>Vue.js</b> and some other thingy's.
+- 🌱 I’m currently learning <b>Vite</b> and some other thingy's.
 
 - ⚡ Fun fact <i><b>I like helping some FiveM servers here and there, oh and my other Discord account name is Demonized :)</b></i>
 
