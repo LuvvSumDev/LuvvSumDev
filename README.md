@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning <b>Vite</b> and some other thingy's.
 
-- ⚡ Fun fact <i><b>I like helping some FiveM servers here and there, oh and my other Discord account name is Demonized :)</b></i>
+- ⚡ Fun fact <i><b>I'm currently creating a FiveM server called Smoothie Roleplay, wanna join? Here's a [Discord link](https://discord.gg/pAzpzTpQrN)!</b></i>
 
 ### Connect with me:
 <p align="left">
