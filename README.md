@@ -27,7 +27,7 @@ education:
 
 ### 🍹 Currently Stirring:
 > I'm building **Smoothie Roleplay**, a custom FiveM experience with clean UI, deep gameplay, and serious vibes.  
-> 🍓 Wanna taste it? [Join the Discord](https://discord.gg/your-discord-link)
+> 🍓 Wanna taste it? [Join the Discord](https://discord.gg/pAzpzTpQrN)
 
 ---
 
