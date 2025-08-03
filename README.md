@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFF7&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B;I'm+LuvvSum.;Full-stack+Developer+%7C+FiveM+Veteran;React%2FNext.js+Enthusiast;+" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFF7&center=false&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B;I'm+LuvvSum.;Full-stack+Developer+%7C+FiveM+Veteran;React%2FNext.js+Enthusiast;+" alt="Typing SVG" />
 <br>
 <img src="https://lanyard.cnrad.dev/api/1152020403884150864" />
 
@@ -25,12 +25,6 @@ education:
 
 ---
 
-### 🍹 Currently Stirring:
-> I'm building **Smoothie Roleplay**, a custom FiveM experience with clean UI, deep gameplay, and serious vibes.  
-> 🍓 Wanna taste it? [Join the Discord](https://discord.gg/pAzpzTpQrN)
-
----
-
 ### 🧰 My Toolkit
 
 | Web | Backend | Game Dev | Other |
@@ -45,7 +39,6 @@ education:
 
 - 🌍 Build high-quality open-source FiveM utilities
 - 🌱 Grow my React/TypeScript & full-stack skills
-- 🚀 Release SmoothieRP with the cleanest UI in town
 
 ---
 
@@ -54,6 +47,6 @@ education:
 ```js
 const funFact = {
   loves: ['scripting', 'design', 'UI polish'],
-  motto: "If it's not smooth, it’s not shipped.",
   secret_skill: "Converting chaos into clean code™"
 }
+```
