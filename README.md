@@ -25,16 +25,6 @@ education:
 
 ---
 
-### 🧰 My Toolkit
-
-| Web | Backend | Game Dev | Other |
-|-----|---------|----------|-------|
-| ⚡ Vite | 🧠 Node.js | 🔧 Lua (FiveM) | 🌀 Git |
-| ⚛️ React | 🌐 REST APIs | 🗺️ Map Editing | 🎨 Blender |
-| 🔷 Next.js | 🐘 PHP | 🧱 YMAP/Config Wizard | 🧼 Clean Code Advocate |
-
----
-
 ### 🎯 Goals
 
 - 🌍 Build high-quality open-source FiveM utilities
