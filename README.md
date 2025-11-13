@@ -16,8 +16,8 @@ age: 18
 location: The Hague, The Netherlands
 stack: ['Lua', 'JavaScript', 'React', 'Next.js', 'Node.js', 'TypeScript']
 experience:
-  fivem: 5 years
-  react_next: 1.5 years
+  fivem: 6 years
+  react_next: 2 years
 education:
   current: IT Support
   future: Software Engineering
