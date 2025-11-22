@@ -8,35 +8,15 @@
 
 ---
 
-### 🧠 Who am I?
-
 ```yaml
 name: LuvvSum
 age: 18
 location: The Hague, The Netherlands
-stack: ['Lua', 'JavaScript', 'React', 'Next.js', 'Node.js', 'TypeScript']
+stack: ['C++', 'C#', 'Lua', 'JavaScript', 'React', 'Next.js', 'Node.js', 'TypeScript']
 experience:
   fivem: 6 years
   react_next: 2 years
 education:
   current: IT Support
   future: Software Engineering
-```
-
----
-
-### 🎯 Goals
-
-- 🌍 Build high-quality open-source FiveM utilities
-- 🌱 Grow my React/TypeScript & full-stack skills
-
----
-
-### ✨ Fun Stuff
-
-```js
-const funFact = {
-  loves: ['scripting', 'design', 'UI polish'],
-  secret_skill: "Converting chaos into clean code™"
-}
 ```
