@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFF7&center=false&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B;I'm+LuvvSum.;Full-stack+Developer+%7C+FiveM+Veteran;React%2FNext.js+Enthusiast;+" alt="Typing SVG" />
 <br>
-<img src="https://lanyard.cnrad.dev/api/1152020403884150864" />
+<img src="https://lanyard.cnrad.dev/api/1109138512080547981" />
 
 </div>
 
@@ -14,8 +14,8 @@ age: 18
 location: The Hague, The Netherlands
 stack: ['C++', 'C#', 'Lua', 'JavaScript', 'React', 'Next.js', 'Node.js', 'TypeScript']
 experience:
-  fivem: 6 years
-  react_next: 2 years
+  fivem: 7 years
+  react_next: 3 years
 education:
   current: IT Support
   future: Software Engineering
