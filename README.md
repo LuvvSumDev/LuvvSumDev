@@ -1,6 +1,6 @@
 ```yaml
 name: LuvvSum
-age: 18
+age: 19
 location: The Hague, The Netherlands
 stack: ['C++', 'C#', 'Lua', 'JavaScript', 'React', 'Next.js', 'Node.js', 'TypeScript']
 experience:
