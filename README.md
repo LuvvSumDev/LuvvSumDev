@@ -1,13 +1,3 @@
-<div align="left">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFF7&center=false&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B;I'm+LuvvSum.;Full-stack+Developer+%7C+FiveM+Veteran;React%2FNext.js+Enthusiast;+" alt="Typing SVG" />
-<br>
-<img src="https://lanyard.cnrad.dev/api/1109138512080547981" />
-
-</div>
-
----
-
 ```yaml
 name: LuvvSum
 age: 18
