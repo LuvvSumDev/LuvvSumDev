@@ -79,11 +79,11 @@ Serious Dutch FiveM roleplay. I build the server and the website.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=LuvvSum&background=16130F&border=9E1B1B&ring=9E1B1B&fire=9E1B1B&currStreakNum=EFE6D2&sideNums=EFE6D2&currStreakLabel=9E1B1B&sideLabels=EFE6D2&dates=8B8680&hide_border=false" width="80%">
+<img src="https://streak-stats.demolab.com?user=LuvvSumDev&background=16130F&border=9E1B1B&ring=9E1B1B&fire=9E1B1B&currStreakNum=EFE6D2&sideNums=EFE6D2&currStreakLabel=9E1B1B&sideLabels=EFE6D2&dates=8B8680&hide_border=false" width="80%">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuvvSum/LuvvSum/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/LuvvSum/LuvvSum/output/snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuvvSumDev/LuvvSumDev/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/LuvvSumDev/LuvvSumDev/output/snake.svg" width="100%">
 </picture>
 
 </div>
