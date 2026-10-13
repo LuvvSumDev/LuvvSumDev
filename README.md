@@ -46,29 +46,6 @@ Open-source FiveM roleplay framework built on the ox ecosystem. Free forever, GP
 </tr>
 </table>
 
-## 🎮 Running
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💜 [Onyx Roleplay](https://onyxroleplay.net)
-FiveM roleplay community, currently relaunching as **Onyx V2**. Server Manager and Lead Developer.
-
-![](https://img.shields.io/badge/status-open_beta-9B59E8?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🇳🇱 [Revolutie Roleplay](https://revolutierp.nl)
-Serious Dutch FiveM roleplay. I build the server and the website.
-
-![](https://img.shields.io/badge/status-open-FFD9E6?style=flat-square)
-
-</td>
-</tr>
-</table>
-
 ## 🧰 Stack
 
 <div align="center">
