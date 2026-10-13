@@ -68,8 +68,8 @@ Open-source FiveM roleplay framework built on the ox ecosystem. Free forever, GP
 <img src="https://streak-stats.demolab.com?user=LuvvSumDev&background=0D0B10&border=3B2A4D&ring=B8A3D6&fire=8E6BB8&currStreakNum=E6DEF0&sideNums=E6DEF0&currStreakLabel=B8A3D6&sideLabels=E6DEF0&dates=7A6F85&hide_border=false" width="80%">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuvvSumDev/LuvvSumDev/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/LuvvSumDev/LuvvSumDev/output/snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuvvSumDev/LuvvSumDev/output/snake-dark.svg?v=2">
+    <img src="https://raw.githubusercontent.com/LuvvSumDev/LuvvSumDev/output/snake.svg?v=2" width="100%">
 </picture>
 
 <br>
@@ -78,4 +78,4 @@ Open-source FiveM roleplay framework built on the ox ecosystem. Free forever, GP
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6B4C8A,50:2A1B3D,100:0D0B10&height=120&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B10,50:4B2E5E,100:B8A3D6&height=120&section=footer" width="100%">
