@@ -11,9 +11,7 @@
 <a href="https://unfckd.dev"><img src="https://img.shields.io/badge/unfckd.dev-2A1B3D?style=for-the-badge&logoColor=B8A3D6"></a>
 <a href="https://zenithfivem.dev"><img src="https://img.shields.io/badge/zenithfivem.dev-2A1B3D?style=for-the-badge&logoColor=B8A3D6"></a>
 
-<br><br>
-
-🥀 ━━━━━━━━━━━━ ⸸ ━━━━━━━━━━━━ 🥀
+<br>
 
 </div>
 
@@ -25,7 +23,6 @@ local LuvvSum = {
     builds = { "FiveM servers", "frameworks", "server tooling", "horror games" },
     lives_in = { "ox_lib", "ox_target", "ox_inventory" },
     fluent = { "QBCore", "Qbox", "ESX", "ox_core" },
-    aesthetic = "black roses & broken code",
     motto = "if it's broken, it gets unfckd",
 }
 
@@ -71,10 +68,6 @@ Open-source FiveM roleplay framework built on the ox ecosystem. Free forever, GP
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuvvSumDev/LuvvSumDev/output/snake-dark.svg?v=2">
     <img src="https://raw.githubusercontent.com/LuvvSumDev/LuvvSumDev/output/snake.svg?v=2" width="100%">
 </picture>
-
-<br>
-
-<sub>⸸ built in the dark ⸸</sub>
 
 </div>
 
